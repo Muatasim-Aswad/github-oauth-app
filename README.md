@@ -2,6 +2,8 @@
 
 This repository demonstrates a simple implementation of OAuth2 using GitHub. The template for this demo is provided by Codecademy. The main code handling the OAuth2 logic is located in the `app.js` file.
 
+**Note:** Parts of this Readme file are auto-generated. If something is unclear or you need further information, don't hesitate to reach out.
+
 ## Technologies Used
 
 - JavaScript
@@ -82,5 +84,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Template by Codecademy
 - OAuth2 authentication with Passport.js
-
-**Note:** Parts of this documentation are auto-generated. If something is unclear or you need further information, don't hesitate to reach out.
